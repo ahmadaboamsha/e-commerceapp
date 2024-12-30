@@ -15,7 +15,7 @@ A full-stack E-commerce application with user authentication using devdojo auth 
 1. **Clone the Repository**
 
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/ahmadaboamsha/e-commerceapp)
    ```
 2. **Install Dependencies**
 
